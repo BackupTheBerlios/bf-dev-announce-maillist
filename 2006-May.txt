@@ -1,0 +1,12 @@
+From fuzn at gmx.at  Wed May 31 21:28:19 2006
+From: fuzn at gmx.at (Wolfgang Moser)
+Date: Wed, 31 May 2006 21:28:19 +0200
+Subject: [Bf-dev-announce] Sourcecode online
+Message-ID: <447DEE53.8090301@gmx.at>
+
+Hab jetzt endlich die Vorabversion der GUI ins Repository gestellt und 
+den alten Schund (also die generierten Header) gel?scht.
+
+MfG, Wolfgang Moser
+
+

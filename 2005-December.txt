@@ -1,0 +1,17 @@
+From d.posch at inode.at  Sat Dec 10 18:00:32 2005
+From: d.posch at inode.at (Daniel Posch)
+Date: Sat, 10 Dec 2005 18:00:32 +0100
+Subject: [Bf-dev-announce] We have a website now
+Message-ID: <439B09B0.6040109@inode.at>
+
+Today we have set up a wiki which will be used as an interactive 
+web-platform for exchanging information regarding our product, Brainfuck 
+Studio. It is still under heavy construction, but already visible to 
+every visitor. More content will be inserted during the next two weeks...
+
+-- 
+Daniel Posch
+Brainfuck Studio Project Leader
+danpo at users.berlios.de
+
+
